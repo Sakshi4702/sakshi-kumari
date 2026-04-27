@@ -14,10 +14,10 @@
 ---
 
 ## 📂 Projects
-🔹 Sales Data Analysis (SQL + Excel)
-🔹 Amazon Sales Data Analysis Project (Powr BI + Excel)
-🔹 Customer Segmentation  
-🔹 Data Cleaning Project  
+- Sales Data Analysis (SQL + Excel)
+- Amazon Sales Data Analysis Project (Powr BI + Excel)
+- Customer Segmentation  
+- Data Cleaning Project  
 
 ---
 
